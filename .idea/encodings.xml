@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src-arch/com/robert/arch/ood/calc/Calculator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-arch/com/robert/arch/ood/digcoin/CoinDiggerControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-bigdata/com/robert/bigdata/bigarraysort/LargeArraySort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-bigdata/com/robert/bigdata/fileinter/FilesIntercept.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-dsal/com/robert/dsal/advance/bag01/BagProblemBackTrace.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-dsal/com/robert/dsal/advance/bag01/BagProblemBranchBound.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-dsal/com/robert/dsal/advance/findfirstmiddle/FirstPositionElementDynamicProgramming.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-jvm/com/robert/jvm/classloader/get/ListClassLoader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-jvm/com/robert/jvm/classloader/hcr/ClassLoaderAdvisor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src-jvm/com/robert/jvm/string/StringTest.java" charset="GBK" />
+  </component>
+</project>
